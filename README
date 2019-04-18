@@ -1,0 +1,3 @@
+This repository contains executables and bash files of two data assimilation algorithms:
+1. Ensemble Kalman filter (EnKF) with perturbed obervations.
+2. Indicator-based data assimilation (InDA)
