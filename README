@@ -1,2 +1,2 @@
-This repository contains executables and bash files of two data assimilation:
+This repository contains executables and bash files of a data assimilation algorithm:
 Ensemble Kalman filter (EnKF) with perturbed obervations.
